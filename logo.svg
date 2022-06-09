@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2188" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="400" width="400" version="1.0" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs2190">
+  <linearGradient id="linearGradient11098" y2="333.62" gradientUnits="userSpaceOnUse" x2="360.71" y1="268.62" x1="129.42">
+   <stop id="stop9026" stop-opacity=".10309" offset="0"/>
+   <stop id="stop9028" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient11100" y2="333.62" gradientUnits="userSpaceOnUse" x2="360.71" y1="268.62" x1="129.42">
+   <stop id="stop9018" offset="0"/>
+   <stop id="stop11102" stop-opacity=".72165" offset="0.725"/>
+   <stop id="stop9020" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter11156">
+   <feGaussianBlur id="feGaussianBlur11158" stdDeviation="1.8233401"/>
+  </filter>
+ </defs>
+ <metadata id="metadata2193">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer4">
+  <path id="path7050" stroke-linejoin="round" d="m399.16 205.74l-42.33-2.97-8.93 16.31-25.42-1.31 7.52-17.37-44.13-3.23-12.82 9.95-5.62 5.41 8.94-17.02-36.71-3.22-8.93 17.02-22.95-2.02 8.94-17.02-36.71-3.22-15.31 29.18 19.86 17.01-41.35 78.77-18.36 7.55-6.38 12.16 183.32 20.98 15.6-21.19-6.27-19.48 35.79-64.19 37.18-16.42 15.07-25.68z" fill-rule="evenodd" filter="url(#filter11156)" stroke="url(#linearGradient11098)" stroke-linecap="round" stroke-width="4.0995" fill="url(#linearGradient11100)"/>
+ </g>
+ <g id="layer2" stroke-linejoin="round" stroke="#000" stroke-linecap="round">
+  <path id="path3327" d="m315 55h-40v35h-25v-35h-40v35h-25v-35h-40v35h-25v-35l-39.998 0.004v59.996l29.998 30.01v161.99l-15 18v25h205l0.02-24.96-15.02-18.04v-162l30-30v-60z" fill-rule="evenodd" stroke-width="6" fill="#ffa646"/>
+  <path id="rect8215" d="m197.47 192.5c-18.76 0.31-33.76 17.98-33.5 39.44h0.16v74.72h67.78v-74.91h0.06c0.01-0.32 0.01-0.6 0-0.93 0-0.54-0.03-1.07-0.06-1.6-0.99-20.71-16.14-37.01-34.44-36.72z" stroke-width="5" fill="#ffc07c"/>
+ </g>
+</svg>
